@@ -23,8 +23,6 @@ This repository contains the code for a modern, responsive product landing page 
 
 ## Live Demo
 
-**(Required: Replace with your live deployment link, e.g., from GitHub Pages, Netlify, Vercel)**
-
 ➡️ **[View Live Demo](https://ankitca07.github.io/MagSafe-Wallet-Pro/)** ⬅️
 
 *(Note: Replace the link above with the actual URL where your project is hosted.)*
