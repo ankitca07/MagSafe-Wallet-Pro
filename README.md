@@ -25,7 +25,7 @@ This repository contains the code for a modern, responsive product landing page 
 
 **(Required: Replace with your live deployment link, e.g., from GitHub Pages, Netlify, Vercel)**
 
-➡️ **[View Live Demo](https://your-username.github.io/your-repo-name/)** ⬅️
+➡️ **[View Live Demo](https://ankitca07.github.io/MagSafe-Wallet-Pro/)** ⬅️
 
 *(Note: Replace the link above with the actual URL where your project is hosted.)*
 
@@ -37,13 +37,7 @@ This repository contains the code for a modern, responsive product landing page 
 
 A short video demonstrating the landing page, its responsiveness across different screen sizes, and the implemented scroll animations in action.
 
-➡️ **[Watch Demo Video on YouTube/Loom/Vimeo](https://www.example.com/your-video-link)** ⬅️
-
-*Or embed a GIF:*
-
-![Project Demo GIF](https://example.com/link/to/your/demo.gif)
-
-*(Note: Replace the link or embedded GIF above with your actual demonstration.)*
+➡️ **[Watch Demo Video on YouTube/Loom/Vimeo](https://youtu.be/2KH_hp4gdiE)** ⬅️
 
 ---
 
